@@ -15,8 +15,8 @@ I’m a Computer Science Engineering student passionate about building intellige
 ## 🛠 Skills & Technologies
 
 - **Languages:** Python, C, C++, JavaScript  
-- **Databases:** MySQL, Apache SQL Server  
-- **Tools & IDEs:** Git, VS Code, Jupyter Notebook  
+- **Databases:** MySQL
+- **Tools & IDEs:** Git, VS Code 
 - **Concepts:** OOP, DSA, Problem Solving  
 - **Web Dev:** HTML, CSS, Bootstrap, React (Learning)  
 - **AI/ML:** Data Analysis, Model Training, Streamlit
