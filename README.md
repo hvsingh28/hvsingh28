@@ -23,20 +23,6 @@ I’m a Computer Science Engineering student passionate about building intellige
 
 ---
 
-## 🚀 Projects
-
-### 🏋️ Personal Fitness Tracker (Feb–Mar 2025)
-An AI-powered fitness tracking web app developed during an internship at Edunet Foundation (Microsoft-SAP initiative).
-- **Tech:** Python, Streamlit, SQLite, Random Forest Regressor  
-- **Features:** Calorie prediction, personalized workout/diet, login-authentication  
-- [🔗 Project Link](#)
-
-### ☕ Responsive Café Website
-A mobile-friendly website with dynamic features like menu browsing, location, and reservation functionality.
-- **Tech:** HTML, CSS, JavaScript, Bootstrap
-
----
-
 ## 💼 Internship Experience
 
 **Edunet Foundation (Microsoft & SAP Initiative)**  
