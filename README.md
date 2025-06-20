@@ -18,7 +18,7 @@ I’m a Computer Science Engineering student passionate about building intellige
 - **Databases:** MySQL
 - **Tools & IDEs:** Git, VS Code 
 - **Concepts:** OOP, DSA, Problem Solving  
-- **Web Dev:** HTML, CSS, Bootstrap, React (Learning)  
+- **Web Dev:** HTML, CSS, Bootstrap, Tailwind CSS, ReactJS
 - **AI/ML:** Data Analysis, Model Training, Streamlit
 
 ---
