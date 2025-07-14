@@ -34,7 +34,7 @@ I’m a Computer Science Engineering student passionate about building intellige
 ---
 
 ## 📜 Certifications
-
+- **React Crash Course** – *Udemy*  
 - **Become HTML Hero** – *Udemy*  
 - **CSS (Basic)** – *HackerRank*  
 - **Git & GitHub for Beginners: From Start to Star** – *Udemy*  
@@ -48,6 +48,7 @@ I’m a Computer Science Engineering student passionate about building intellige
 
 ## 🏆 Achievements & Leadership
 
+- 🏦 **JPMC Code for Good'25**, Participant
 - 🥇 **Winner**, Tech Intellect Quiz @ Odyssey Fest (Feb 2024)  
 - 🏛 **Organizer**, Engineer’s Day Event @ Amity University Rajasthan (2024)  
 - 🏦 **State-Level Selection**, RBI@90 Nationwide GK Quiz
