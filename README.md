@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I’m a Computer Science Engineering student passionate about building intelligent and impactful solutions using **Artificial Intelligence** and **modern web technologies**. With a solid foundation in **Python, C++, and JavaScript**, I’m actively working toward becoming a proficient **full-stack developer**.
+I’m a Computer Science Engineering student passionate about building intelligent and impactful solutions using **Artificial Intelligence** and **modern web technologies**. With a solid foundation in **Java and JavaScript**, I’m actively working toward becoming a proficient **JAVA Full-stack developer**.
 
 I enjoy contributing to innovative projects—from AI-powered applications to responsive websites—and I thrive in collaborative, problem-solving environments like hackathons and product sprints.
 
@@ -16,11 +16,11 @@ I enjoy contributing to innovative projects—from AI-powered applications to re
 
 ## 🛠 Skills & Technologies
 
-- **Languages:** Python, C, C++, JavaScript  
-- **Databases:** MySQL, MongoDB, SQLite  
-- **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS, ReactJS, Node.js, Express.js  
-- **AI/ML:** Data Analysis, Model Training, Streamlit  
-- **Tools & IDEs:** Git, GitHub, VS Code, Cursor  
+- **Languages:** JAVA, Javascript, Python, C, C++ 
+- **Databases:** MySQL, MongoDB, PostgreSQL 
+- **Front-end:** HTML, CSS, Tailwind CSS, ReactJS
+- **Back-end:** Spring Boot, Hibernate, RestAPIs
+- **Tools & IDEs:** Git, GitHub, VS Code, Cursor , IntelliJ 
 - **Concepts:** OOP, DSA, Problem Solving  
 
 ---
@@ -31,12 +31,6 @@ I enjoy contributing to innovative projects—from AI-powered applications to re
 *Jun–Jul 2025*  
 - Built a job portal web app with company admin system using the MERN stack  
 - Integrated secure login, role-based authentication, and job listing dashboard  
-
-**AI/ML Intern – Edunet Foundation (Microsoft & SAP Initiative)**  
-*Feb–Mar 2025*  
-- Developed an AI-powered fitness tracking app using a Random Forest model and Streamlit  
-- Enabled calorie prediction, personalized workout plans, and authentication
-
 ---
 
 ## 📜 Certifications
@@ -52,19 +46,18 @@ I enjoy contributing to innovative projects—from AI-powered applications to re
 ---
 
 ## 🏆 Achievements & Leadership
-
-- 🏦 Selected – **JPMC Code for Good 2025**, Hyderabad (Top 230 from 50,000+)  
+  
 - 🥇 Winner – Tech Intellect Quiz @ Odyssey Fest (2024)  
 - 🏛 Organizer – Engineer’s Day @ Amity University Rajasthan  
-- 🧠 State-Level – RBI@90 Nationwide GK Quiz  
-- 👨‍🎓 Top 10 in B.Tech Batch (CGPA 9.25)
+- 🧠 State-Level – RBI@90 Nationwide GK Quiz (October 2024) 
+- 👨‍🎓 Top 10 in B.Tech Batch
 
 ---
 
 ## 📚 Education
 
-- **B.Tech in Computer Science Engineering** – *CGPA: 9.25/10*  
-- **Minor in Entrepreneurship** – *GPA: 9.5/10*  
+- **B.Tech in Computer Science Engineering** 
+- **Minor in Entrepreneurship**  
   *Amity University Rajasthan, 2023–2027*
 
 ---
