@@ -85,7 +85,6 @@ An ML-powered calorie prediction app using a Random Forest Regressor trained on 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvsingh28&show_icons=true&theme=default&hide_border=true" alt="Harsh's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvsingh28&hide_border=true" alt="Harsh's GitHub Streak" height="165"/>
 </p>
 
